@@ -8,9 +8,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Elias - Web Designer & Front-end Developer",
-  description: "Portfolio of Elias, a web designer and front-end developer",
-  generator: "v0.app",
+  title: "Shubham - Web Designer & Full-stack Developer",
+  description: "Portfolio of Shubham, a web designer and full-stack developer",
+ 
 }
 
 export default function RootLayout({
