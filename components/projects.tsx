@@ -29,7 +29,7 @@ export default function Projects() {
       tech: "React.js, TailwindCSS, Postman, Firebase, APIs.",
       color: "from-purple-600 to-purple-500",
       border: "border-purple-600",
-      image: "vismaya.png",
+      image: "Vismaya.png",
       links: [{ text: "Github", href: "https://github.com/SHUBHAMTOHAKE0203/vismaya", icon: "↗" }],
     },
   ]
